@@ -3,6 +3,6 @@
 - 🌱 Yeni fikirler üretmekten ve bunları hayata geçirmekten keyif alıyorum. Bir gün, insanların hayatını kolaylaştıracak yenilikçi bir teknoloji geliştirmeyi hedefliyorum! 🚀 ...
 - ⚡ Full Stack ve Mobil Developer olarak, Frontend, Backend, React Native ve MERN Stack(MongoDB, Express, React, Node.js) ile tam yığın projeler geliştirerek, yazılım dünyasında kendimi sürekli daha ileriye taşıyorum.
 - 📫 fatihkaraaslantr@gmail.com
-
+alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="40" yükseklik="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="küstah" genişlik="40" yükseklik="40"/> </a> </p>
 
 
